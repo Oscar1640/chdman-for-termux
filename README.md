@@ -9,3 +9,4 @@ apt update && apt install x11-repo
 ```
 apt install sdl2
 ```
+you can find other mame tools [here](https://github.com/Oscar1640/Mame_tools_for_termux)
